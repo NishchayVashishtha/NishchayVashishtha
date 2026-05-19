@@ -1,8 +1,3 @@
-Here is a premium, recruiter-friendly GitHub README tailored to your profile. It features a modern dark aesthetic, responsive elements, and dynamic stats to showcase your full-stack expertise, Web3/AI interests, and problem-solving skills.
-
-You can copy and paste the markdown below directly into your `NishchayVashishtha/NishchayVashishtha` repository.
-
-```markdown
 <div align="center">
 
 # Hi there, I'm Nishchay Vashishtha 👋
@@ -98,5 +93,3 @@ You can copy and paste the markdown below directly into your `NishchayVashishtha
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
 </div>
-
-```

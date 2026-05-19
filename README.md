@@ -57,29 +57,13 @@
 ### 📊 GitHub & Problem Solving Stats
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=NishchayVashishtha&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=NishchayVashishtha&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://leetcard.jacoblin.cool/NishchayVashishtha?theme=dark&amp;font=Fira%20Code&amp;ext=activity" alt="LeetCode Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchayVashishtha&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NishchayVashishtha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=NishchayVashishtha&theme=radical&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/NishchayVashishtha?theme=dark&font=Fira%20Code&ext=activity" height="195" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchayVashishtha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="195" alt="Top Languages" />
 </div>
 
 ---
